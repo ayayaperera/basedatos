@@ -1,5 +1,5 @@
-drop database if exists pokemon;
-use pokemon;
+drop database if exists poke;
+use poke;
 
 /*Borrado de tablas*/
 
