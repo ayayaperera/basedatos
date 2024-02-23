@@ -1,4 +1,5 @@
 drop database if exists pokemon2;
+create database pokemon2;
 use pokemon2;
 
 /*Borrado de tablas*/
