@@ -1,6 +1,6 @@
-drop database if exists ciclismo;
-create database ciclismo;
-use ciclismo;
+drop database if exists CICLISMO;
+create database CICLISMO;
+use CICLISMO;
 
 create table equipo(
     nomeq varchar(20) primary key,
